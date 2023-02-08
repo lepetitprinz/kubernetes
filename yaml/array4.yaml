@@ -1,0 +1,16 @@
+--- 
+Albums:
+  - name: "The Story Begins"
+    title: "OOH-AHH"
+    songs:
+      - name: "OOH-AHH"
+        writer: "BEP"
+      - name: "Re do"
+        writer: "JYP"
+  - name: "PAGE TWO"
+    title: "Cheer up"
+    songs:
+      - name: "Cheer up"
+        writer: "Sam Lewis"
+      - name: "Precious Love"
+        writer: "JYP"

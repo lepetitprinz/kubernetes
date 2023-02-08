@@ -1,0 +1,14 @@
+name: kim
+age: 40
+favorites:
+  food: steak
+  musician: "The Weekend"
+jobs:
+  - title: artist
+    experience: 10
+  - title: teacher
+    experience: 4
+dislikes:
+  - talk
+  - travel
+  - smoking
